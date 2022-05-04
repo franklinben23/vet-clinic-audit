@@ -6,11 +6,11 @@ This template should be used for database related projects at Microverse. Genera
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
-Use schema.sql to create all tables.
+Use vet-clinic.sql to create all tables.
 
 Use data.sql to populate tables with sample data.
 
-Check queries.sql for examples of queries that can be run on a newly created database. Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!
+Check solutions.sql for the queries that were requested, and their implemented solutions. Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!
 
 ## Authors
 
